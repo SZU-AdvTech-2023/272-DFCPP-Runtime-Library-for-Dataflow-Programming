@@ -1,0 +1,7 @@
+@inproceedings{REPO272,
+    author = "Luo, Qiuming and Huang, Jinke and Li, Jinrong and Du, Zheng",
+    booktitle = "Proceedings of the 52nd International Conference on Parallel Processing Workshops",
+    pages = "145--152",
+    title = "{DFCPP Runtime Library for Dataflow Programming}",
+    year = "2023"
+}
